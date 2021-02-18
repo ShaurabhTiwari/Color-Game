@@ -59,11 +59,14 @@ h1 {
 
 #message {
     display: inline-block;
-    width: 18%;
+    width: 10%;
+    text-align: inline;
 }
 
 #stripe {
     background-color: white;
-    height: 1.9em;
+    /*height: 1.9em;*/
+    height: auto;
     text-align: center;
+    vertical-align: center;
 }
